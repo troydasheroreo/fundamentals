@@ -3,7 +3,7 @@
 import skilstak.colors as c
 try:
     while True:
-        print(c.b + "Hello" + c.r + " World"+ c.x, end=" ")
+        print(c.base02 + "Spooky" + c.base0 + " Scary" + c.base3 + " Skeletons" + c.x, end=" ")
 
 except KeyboardInterrupt:
     exit()
